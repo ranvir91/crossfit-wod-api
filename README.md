@@ -1,8 +1,9 @@
 # crossfit-wod-api
-REST API for a CrossFit Training Application using Nodejs, Expressjs and mock db as DB.json
+- Design REST APIs using Best Practices
+- REST API for a CrossFit Training Application using Nodejs, Expressjs and mock db as DB.json
 
 
-# crossfit-wod-api
+# setup crossfit-wod-api
 - Clone the repo from github
 - navigate to directory {crossfit-wod-api}
 - run `npm install`, it will install dependancies
